@@ -2,7 +2,7 @@
 """
 Created on Sun Apr  3 14:27:33 2016
 
-@author: Tue
+@author: Tue Rauff Lind Christensen - Branch & Bound
 """
 
 import network
